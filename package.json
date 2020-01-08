@@ -1,0 +1,15 @@
+{
+  "name": "myfile",
+  "version": "1.0.0",
+  "description": "失败说明",
+  "main": "webpack entry----",
+  "scripts": {
+    "test": "node 01.helloworld.js"
+  },
+  "keywords": [
+    "node",
+    "01"
+  ],
+  "author": "yj",
+  "license": "MIT"
+}
